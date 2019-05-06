@@ -1,0 +1,57 @@
+/*
+* Jennifer Cardamone
+* May 9, 2019
+* Girl Develop It
+*/
+
+/* The universal selector */
+
+* {
+
+}
+
+/* Body properties here */
+
+body { /* Properties of the body */
+    background-color: #FAE3E0;
+    font-family: "Apple Chancery", Arial, serif;
+}
+
+header { /* Properties of the header */
+    background-color: #EA4954;
+    text-align: center;
+}
+
+#logo { /* Properties of the logo image */
+    clear: both;
+}
+
+h1 { /* Properties of the h1 */
+    text-decoration: underline;
+}
+
+p { /* Properties of the paragraph */
+    font-family: Arial, "Apple Chancery", serif;
+}
+
+#Girls { /* Properties of the girls image */
+    float: right;
+    height: 200px; width: 300px;
+}
+
+#Laptop { /* Properties of the laptop image */
+    float: right;
+    height: 200px; width: 300px;
+}
+
+h2 { /* Properties of the h2 */
+    text-decoration: underline;
+}
+
+ul { /* Properties of the unordered list */
+    font-family: Arial, "Apple Chancery", serif;
+}
+
+footer { /* Properties of the footer */
+    font-family: Arial, "Apple Chancery", serif;
+} 
