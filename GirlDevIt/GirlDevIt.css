@@ -55,3 +55,7 @@ ul { /* Properties of the unordered list */
 footer { /* Properties of the footer */
     font-family: Arial, "Apple Chancery", serif;
 } 
+
+a:hover, a:focus { /*Properties of the links*/
+    color: violet; 
+    font-size: 20px; }
